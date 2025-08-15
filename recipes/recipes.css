@@ -1,0 +1,95 @@
+/* Design Reference: https://cheosphere.github.io/recipe-page-main/ */
+body {
+    width: 800px;
+    text-align: left;
+    margin: 100px auto;
+    background-color: rgb(243, 230, 216);
+    /*font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
+}
+
+.main-page {
+    background-color: white;
+    padding: 50px 100px;
+    border-radius: 3%;
+}
+
+.nav-bar {
+    display: block;
+    padding: 10px;
+    background-color: indianred;
+}
+
+.nav-item {
+    width: 200px;
+    padding: 10px;
+    font-family: 'Verdana';
+    color: rgb(243, 230, 216);
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.head-image {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 2%;
+}
+
+.photo-credit {
+    font-family: 'Verdana';
+    font-size: 8px;
+    margin-top: -5px;
+}
+
+h1 {
+    font-family: fantasy;
+    color: brown;
+}
+
+h2 {
+    font-family: fantasy;
+    color: brown;
+}
+
+#heading {
+    text-align: center;
+    border-bottom: 1px brown dotted;
+}
+
+p,.list {
+    font-family: 'Verdana';
+}
+
+.menu {
+    text-align: left;
+    padding: 10px;
+    
+    
+}
+
+.title {
+    font-family: fantasy;
+    color: brown;
+    font-size: 20px;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.menu-items {
+    padding: 20px;
+}
+
+.menu-image {
+    border-radius: 3%;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+
+#modak {
+    text-align: right;
+}
